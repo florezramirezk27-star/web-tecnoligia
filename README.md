@@ -1,5 +1,9 @@
 # web-tecnoligia
 
+**Repositorio:** https://github.com/florezramirezk27-star/web-tecnoligia  
+**Deploy recomendado (GitHub Pages):** https://florezramirezk27-star.github.io/web-tecnoligia/  
+Para activarlo: https://github.com/florezramirezk27-star/web-tecnoligia/settings/pages → *Deploy from a branch* → `main` / `/ (root)` → **Save**.
+
 ## NODO · Portal Web Interactivo para el Sector Productivo de Bucaramanga
 
 Proyecto final integrador — 30% corte 3 · Diseño Web Avanzado · Grupo B191 · UTS
