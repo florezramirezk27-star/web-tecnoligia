@@ -1,0 +1,23 @@
+{
+  "nombre": "NODO",
+  "nombreCompleto": "NODO · Startup Tecnológica de Bucaramanga",
+  "frase": "Tecnología que conecta a Bucaramanga con el futuro.",
+  "sector": "Tecnología — startup tecnológica bumanguesa",
+  "descripcion": "Somos una startup de Santander que diseña y construye soluciones digitales para empresas de la región: desarrollo web, datos, automatización e infraestructura cloud.",
+  "integrantes": [
+    "Dayron Camilo Diaz",
+    "Santiago Alejandro Figueroa",
+    "Andres Felipe Contreras Rodriguez",
+    "Kevin Andrey Florez Ramírez"
+  ],
+  "ubicacion": "Bucaramanga, Santander, Colombia",
+  "direccion": "Cra. 15 # 36-24, Centro, Bucaramanga",
+  "telefono": "+57 7 612 4820",
+  "whatsapp": "+57 300 555 0142",
+  "email": "hola@nodotecnologia.co",
+  "horario": "Lunes a viernes, 8:00 a. m. — 6:00 p. m. (UTC-5)",
+  "latitud": 7.1193,
+  "longitud": -73.1227,
+  "videoExposicion": "",
+  "anio": 2026
+}

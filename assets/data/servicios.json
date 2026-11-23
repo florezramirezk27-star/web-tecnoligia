@@ -1,0 +1,74 @@
+[
+  {
+    "id": "desarrollo-web",
+    "nombre": "Desarrollo web a medida",
+    "categoria": "Desarrollo",
+    "descripcion": "Sitios corporativos, portales y aplicaciones web responsivas, optimizadas y accesibles.",
+    "detalle": "Construimos experiencias digitales con HTML5 semántico, framework CSS moderno y JavaScript orientado a objetos. Cada entrega incluye pruebas responsive, optimización y documentación.",
+    "icono": "i-code",
+    "imagen": "assets/img/codigo.webp",
+    "etiquetas": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "duracion": "4 a 8 semanas",
+    "destacado": true
+  },
+  {
+    "id": "apps-moviles",
+    "nombre": "Aplicaciones móviles",
+    "categoria": "Desarrollo",
+    "descripcion": "Apps híbridas para iOS y Android con interfaces ágiles y consumo de APIs.",
+    "detalle": "Diseñamos y desarrollamos aplicaciones multiplataforma con navegación intuitiva, notificaciones, autenticación y sincronización con servicios en la nube.",
+    "icono": "i-layers",
+    "imagen": "assets/img/diseno.webp",
+    "etiquetas": ["UI/UX", "PWA", "APIs REST", "Firebase"],
+    "duracion": "6 a 10 semanas",
+    "destacado": false
+  },
+  {
+    "id": "inteligencia-datos",
+    "nombre": "Analítica e inteligencia de datos",
+    "categoria": "Datos",
+    "descripcion": "Dashboards, reportes automáticos y modelos predictivos para decidir con información.",
+    "detalle": "Transformamos datos dispersos en tableros claros: limpieza, integración de fuentes, visualización y alertas. Usamos JSON como formato de intercambio entre sistemas.",
+    "icono": "i-chart",
+    "imagen": "assets/img/analitica.webp",
+    "etiquetas": ["Dashboards", "JSON", "SQL", "Power BI"],
+    "duracion": "3 a 6 semanas",
+    "destacado": true
+  },
+  {
+    "id": "automatizacion",
+    "nombre": "Automatización e IoT",
+    "categoria": "Datos",
+    "descripcion": "Bots, integraciones y soluciones conectadas que reducen tareas repetitivas.",
+    "detalle": "Integramos procesos, sensores y servicios mediante APIs. Nuestros flujos automatizados liberan tiempo del equipo y mejoran la trazabilidad de la operación.",
+    "icono": "i-cpu",
+    "imagen": "assets/img/circuito.webp",
+    "etiquetas": ["IoT", "APIs", "Webhooks", "RPA"],
+    "duracion": "2 a 5 semanas",
+    "destacado": false
+  },
+  {
+    "id": "cloud-devops",
+    "nombre": "Cloud y DevOps",
+    "categoria": "Infraestructura",
+    "descripcion": "Despliegue, monitoreo y escalabilidad de aplicaciones en la nube.",
+    "detalle": "Configuramos entornos de desarrollo, integración y producción con despliegues continuos, respaldos, certificados y monitoreo proactivo.",
+    "icono": "i-cloud",
+    "imagen": "assets/img/servidores.webp",
+    "etiquetas": ["AWS", "Docker", "CI/CD", "Nginx"],
+    "duracion": "2 a 4 semanas",
+    "destacado": true
+  },
+  {
+    "id": "soporte-seguridad",
+    "nombre": "Soporte y seguridad",
+    "categoria": "Infraestructura",
+    "descripcion": "Mantenimiento preventivo, respuesta de incidentes y buenas prácticas de seguridad.",
+    "detalle": "Acompañamos la operación diaria con monitoreo, actualizaciones, revisión de vulnerabilidades y canales de atención para que su plataforma siempre esté disponible.",
+    "icono": "i-shield",
+    "imagen": "assets/img/soporte.webp",
+    "etiquetas": ["Monitoreo 24/7", "Seguridad", "SLA", "Respaldo"],
+    "duracion": "Plan mensual",
+    "destacado": false
+  }
+]
